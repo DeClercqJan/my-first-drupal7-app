@@ -1,0 +1,4 @@
+name: my-first-drupal7-app
+recipe: drupal7
+config:
+  webroot: .
